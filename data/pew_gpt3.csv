@@ -1,0 +1,1249 @@
+country,prompt,topic,pew_rating,pew_score,gpt3_score_mean,gpt_var,repeat
+Philippines,"Pick one. Do people in Philippines believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.2935323383084577, 'Not a moral issue': 0.0945273631840796, 'Morally acceptable': 0.599502487562189}",0.3059701492537313,0.2,0.16,5
+Philippines,"Pick one. Do people in Philippines believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.6716417910447762, 'Not a moral issue': 0.06840796019900497, 'Morally acceptable': 0.25}",-0.4216417910447761,-1.0,0.0,5
+Philippines,"Pick one. Do people in Philippines believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.9340796019900498, 'Not a moral issue': 0.04228855721393035, 'Morally acceptable': 0.022388059701492536}",-0.9116915422885572,-1.0,0.0,5
+Philippines,"Pick one. Do people in Philippines believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.650497512437811, 'Not a moral issue': 0.09203980099502487, 'Morally acceptable': 0.2512437810945274}",-0.3992537313432835,-1.0,0.0,5
+Philippines,"Pick one. Do people in Philippines believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.3917910447761194, 'Not a moral issue': 0.23880597014925373, 'Morally acceptable': 0.3445273631840796}",-0.0472636815920398,0.2,0.16,5
+Philippines,"Pick one. Do people in Philippines believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.8980099502487562, 'Not a moral issue': 0.041044776119402986, 'Morally acceptable': 0.053482587064676616}",-0.8445273631840796,-1.0,0.0,5
+Philippines,"Pick one. Do people in Philippines believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.6082089552238806, 'Not a moral issue': 0.18407960199004975, 'Morally acceptable': 0.20398009950248755}",-0.4042288557213931,0.0,0.0,5
+Philippines,"Pick one. Do people in Philippines believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.7126865671641791, 'Not a moral issue': 0.07338308457711443, 'Morally acceptable': 0.20398009950248755}",-0.5087064676616916,-1.0,0.0,5
+South Africa,"Pick one. Do people in South Africa believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.14355828220858896, 'Not a moral issue': 0.08711656441717791, 'Morally acceptable': 0.6723926380368098}",0.5288343558282209,1.0,0.0,5
+South Africa,"Pick one. Do people in South Africa believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.37791411042944784, 'Not a moral issue': 0.150920245398773, 'Morally acceptable': 0.16319018404907976}",-0.214723926380368,0.8,0.16,5
+South Africa,"Pick one. Do people in South Africa believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.5840490797546012, 'Not a moral issue': 0.0834355828220859, 'Morally acceptable': 0.10061349693251534}",-0.4834355828220859,1.0,0.0,5
+South Africa,"Pick one. Do people in South Africa believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.5914110429447853, 'Not a moral issue': 0.12515337423312883, 'Morally acceptable': 0.1901840490797546}",-0.4012269938650307,-1.0,0.0,5
+South Africa,"Pick one. Do people in South Africa believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.3337423312883436, 'Not a moral issue': 0.26134969325153373, 'Morally acceptable': 0.22208588957055214}",-0.1116564417177914,1.0,0.0,5
+South Africa,"Pick one. Do people in South Africa believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.6404907975460122, 'Not a moral issue': 0.11288343558282209, 'Morally acceptable': 0.10552147239263804}",-0.5349693251533743,-1.0,0.0,5
+South Africa,"Pick one. Do people in South Africa believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.3791411042944785, 'Not a moral issue': 0.2822085889570552, 'Morally acceptable': 0.18404907975460122}",-0.1950920245398772,0.4,0.24,5
+South Africa,"Pick one. Do people in South Africa believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.4539877300613497, 'Not a moral issue': 0.17668711656441718, 'Morally acceptable': 0.2233128834355828}",-0.2306748466257668,0.2,0.16,5
+Uganda,"Pick one. Do people in Uganda believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.38125, 'Not a moral issue': 0.055, 'Morally acceptable': 0.505}",0.12375,0.2,0.16,5
+Uganda,"Pick one. Do people in Uganda believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.75625, 'Not a moral issue': 0.05875, 'Morally acceptable': 0.08875}",-0.6675,-1.0,0.0,5
+Uganda,"Pick one. Do people in Uganda believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.8825, 'Not a moral issue': 0.055, 'Morally acceptable': 0.01875}",-0.8637499999999999,-1.0,0.0,5
+Uganda,"Pick one. Do people in Uganda believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.93375, 'Not a moral issue': 0.04625, 'Morally acceptable': 0.0125}",-0.92125,-1.0,0.0,5
+Uganda,"Pick one. Do people in Uganda believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.5725, 'Not a moral issue': 0.14, 'Morally acceptable': 0.19125}",-0.38125,-1.0,0.0,5
+Uganda,"Pick one. Do people in Uganda believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.79875, 'Not a moral issue': 0.0825, 'Morally acceptable': 0.06875}",-0.73,-1.0,0.0,5
+Uganda,"Pick one. Do people in Uganda believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.8025, 'Not a moral issue': 0.10625, 'Morally acceptable': 0.0325}",-0.77,-0.6,0.24,5
+Uganda,"Pick one. Do people in Uganda believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.77125, 'Not a moral issue': 0.085, 'Morally acceptable': 0.085}",-0.68625,-1.0,0.0,5
+United States,"Pick one. Do people in United States believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.06087824351297405, 'Not a moral issue': 0.36726546906187624, 'Morally acceptable': 0.5199600798403193}",0.4590818363273453,1.0,0.0,5
+United States,"Pick one. Do people in United States believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.20758483033932135, 'Not a moral issue': 0.36427145708582837, 'Morally acceptable': 0.3403193612774451}",0.1327345309381237,0.2,0.16,5
+United States,"Pick one. Do people in United States believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.47105788423153694, 'Not a moral issue': 0.249500998003992, 'Morally acceptable': 0.17465069860279442}",-0.2964071856287425,0.4,0.6399999999999999,5
+United States,"Pick one. Do people in United States believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.3712574850299401, 'Not a moral issue': 0.35429141716566864, 'Morally acceptable': 0.2125748502994012}",-0.1586826347305389,0.4,0.24,5
+United States,"Pick one. Do people in United States believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.15269461077844312, 'Not a moral issue': 0.4590818363273453, 'Morally acceptable': 0.33033932135728544}",0.1776447105788423,0.0,0.0,5
+United States,"Pick one. Do people in United States believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.8353293413173652, 'Not a moral issue': 0.10578842315369262, 'Morally acceptable': 0.03293413173652695}",-0.8023952095808383,-1.0,0.0,5
+United States,"Pick one. Do people in United States believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.23253493013972057, 'Not a moral issue': 0.4750499001996008, 'Morally acceptable': 0.249500998003992}",0.0169660678642714,0.0,0.0,5
+United States,"Pick one. Do people in United States believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.3203592814371258, 'Not a moral issue': 0.3582834331337325, 'Morally acceptable': 0.27944111776447106}",-0.0409181636726547,0.2,0.16,5
+Spain,"Pick one. Do people in Spain believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.024, 'Not a moral issue': 0.323, 'Morally acceptable': 0.64}",0.616,0.0,0.0,5
+Spain,"Pick one. Do people in Spain believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.042, 'Not a moral issue': 0.376, 'Morally acceptable': 0.564}",0.5219999999999999,0.4,0.24,5
+Spain,"Pick one. Do people in Spain believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.257, 'Not a moral issue': 0.285, 'Morally acceptable': 0.357}",0.0999999999999999,0.6,0.24,5
+Spain,"Pick one. Do people in Spain believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.062, 'Not a moral issue': 0.38, 'Morally acceptable': 0.547}",0.485,0.4,0.24,5
+Spain,"Pick one. Do people in Spain believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.217, 'Not a moral issue': 0.461, 'Morally acceptable': 0.273}",0.056,0.2,0.16,5
+Spain,"Pick one. Do people in Spain believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.636, 'Not a moral issue': 0.271, 'Morally acceptable': 0.075}",-0.561,-0.8,0.16,5
+Spain,"Pick one. Do people in Spain believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.274, 'Not a moral issue': 0.51, 'Morally acceptable': 0.176}",-0.098,0.0,0.0,5
+Spain,"Pick one. Do people in Spain believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.08, 'Not a moral issue': 0.391, 'Morally acceptable': 0.523}",0.443,0.0,0.0,5
+Venezuela,"Pick one. Do people in Venezuela believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.051, 'Not a moral issue': 0.084, 'Morally acceptable': 0.824}",0.7729999999999999,0.6,0.24,5
+Venezuela,"Pick one. Do people in Venezuela believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.242, 'Not a moral issue': 0.08, 'Morally acceptable': 0.581}",0.3389999999999999,1.0,0.0,5
+Venezuela,"Pick one. Do people in Venezuela believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.77, 'Not a moral issue': 0.06, 'Morally acceptable': 0.083}",-0.687,0.6,0.6400000000000002,5
+Venezuela,"Pick one. Do people in Venezuela believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.492, 'Not a moral issue': 0.119, 'Morally acceptable': 0.316}",-0.176,-1.0,0.0,5
+Venezuela,"Pick one. Do people in Venezuela believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.392, 'Not a moral issue': 0.167, 'Morally acceptable': 0.357}",-0.035,0.2,0.16,5
+Venezuela,"Pick one. Do people in Venezuela believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.755, 'Not a moral issue': 0.088, 'Morally acceptable': 0.116}",-0.639,-1.0,0.0,5
+Venezuela,"Pick one. Do people in Venezuela believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.594, 'Not a moral issue': 0.15, 'Morally acceptable': 0.2}",-0.3939999999999999,0.0,0.0,5
+Venezuela,"Pick one. Do people in Venezuela believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.21, 'Not a moral issue': 0.126, 'Morally acceptable': 0.605}",0.395,0.0,0.0,5
+Germany,"Pick one. Do people in Germany believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.00878048780487805, 'Not a moral issue': 0.3092682926829268, 'Morally acceptable': 0.6702439024390244}",0.6614634146341464,0.0,0.0,5
+Germany,"Pick one. Do people in Germany believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.041951219512195125, 'Not a moral issue': 0.3726829268292683, 'Morally acceptable': 0.5629268292682926}",0.5209756097560975,0.0,0.0,5
+Germany,"Pick one. Do people in Germany believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.16585365853658537, 'Not a moral issue': 0.26926829268292685, 'Morally acceptable': 0.44878048780487806}",0.2829268292682927,0.0,0.0,5
+Germany,"Pick one. Do people in Germany believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.05658536585365854, 'Not a moral issue': 0.42048780487804877, 'Morally acceptable': 0.504390243902439}",0.4478048780487805,0.2,0.16,5
+Germany,"Pick one. Do people in Germany believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.09951219512195122, 'Not a moral issue': 0.44, 'Morally acceptable': 0.4117073170731707}",0.3121951219512194,0.0,0.0,5
+Germany,"Pick one. Do people in Germany believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.6165853658536585, 'Not a moral issue': 0.22829268292682928, 'Morally acceptable': 0.12292682926829268}",-0.4936585365853658,-1.0,0.0,5
+Germany,"Pick one. Do people in Germany believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.29560975609756096, 'Not a moral issue': 0.4292682926829268, 'Morally acceptable': 0.24780487804878049}",-0.0478048780487804,0.0,0.0,5
+Germany,"Pick one. Do people in Germany believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.04, 'Not a moral issue': 0.3570731707317073, 'Morally acceptable': 0.5814634146341463}",0.5414634146341463,0.0,0.0,5
+Senegal,"Pick one. Do people in Senegal believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.28125, 'Not a moral issue': 0.11375, 'Morally acceptable': 0.5125}",0.2312499999999999,0.4,0.24,5
+Senegal,"Pick one. Do people in Senegal believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.3175, 'Not a moral issue': 0.1575, 'Morally acceptable': 0.35}",0.0324999999999999,-0.2,0.16,5
+Senegal,"Pick one. Do people in Senegal believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.5225, 'Not a moral issue': 0.22125, 'Morally acceptable': 0.145}",-0.3774999999999999,-1.0,0.0,5
+Senegal,"Pick one. Do people in Senegal believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.68375, 'Not a moral issue': 0.26125, 'Morally acceptable': 0.03125}",-0.6525,-1.0,0.0,5
+Senegal,"Pick one. Do people in Senegal believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.625, 'Not a moral issue': 0.23875, 'Morally acceptable': 0.0925}",-0.5325,0.0,0.0,5
+Senegal,"Pick one. Do people in Senegal believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.68375, 'Not a moral issue': 0.2425, 'Morally acceptable': 0.0475}",-0.63625,-1.0,0.0,5
+Senegal,"Pick one. Do people in Senegal believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.63, 'Not a moral issue': 0.21375, 'Morally acceptable': 0.06875}",-0.56125,0.2,0.16,5
+Senegal,"Pick one. Do people in Senegal believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.6325, 'Not a moral issue': 0.2575, 'Morally acceptable': 0.06375}",-0.56875,-0.2,0.16,5
+Japan,"Pick one. Do people in Japan believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.045714285714285714, 'Not a moral issue': 0.2057142857142857, 'Morally acceptable': 0.7071428571428572}",0.6614285714285715,0.0,0.0,5
+Japan,"Pick one. Do people in Japan believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.11714285714285715, 'Not a moral issue': 0.2885714285714286, 'Morally acceptable': 0.5428571428571428}",0.4257142857142856,0.0,0.0,5
+Japan,"Pick one. Do people in Japan believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.27285714285714285, 'Not a moral issue': 0.20142857142857143, 'Morally acceptable': 0.44571428571428573}",0.1728571428571428,0.0,0.0,5
+Japan,"Pick one. Do people in Japan believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.3, 'Not a moral issue': 0.26857142857142857, 'Morally acceptable': 0.37714285714285717}",0.0771428571428571,0.0,0.0,5
+Japan,"Pick one. Do people in Japan believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.05857142857142857, 'Not a moral issue': 0.25857142857142856, 'Morally acceptable': 0.6557142857142857}",0.5971428571428571,0.0,0.0,5
+Japan,"Pick one. Do people in Japan believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.68, 'Not a moral issue': 0.15, 'Morally acceptable': 0.12571428571428572}",-0.5542857142857143,-1.0,0.0,5
+Japan,"Pick one. Do people in Japan believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.3057142857142857, 'Not a moral issue': 0.29, 'Morally acceptable': 0.3628571428571429}",0.0571428571428571,0.0,0.0,5
+Japan,"Pick one. Do people in Japan believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.19857142857142857, 'Not a moral issue': 0.2757142857142857, 'Morally acceptable': 0.47285714285714286}",0.2742857142857143,0.0,0.0,5
+Czech Republic,"Pick one. Do people in Czech Republic believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.022857142857142857, 'Not a moral issue': 0.21428571428571427, 'Morally acceptable': 0.7414285714285714}",0.7185714285714285,0.0,0.0,5
+Czech Republic,"Pick one. Do people in Czech Republic believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.11, 'Not a moral issue': 0.21428571428571427, 'Morally acceptable': 0.6042857142857143}",0.4942857142857143,0.0,0.0,5
+Czech Republic,"Pick one. Do people in Czech Republic believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.18, 'Not a moral issue': 0.18428571428571427, 'Morally acceptable': 0.48857142857142855}",0.3085714285714285,0.4,0.24,5
+Czech Republic,"Pick one. Do people in Czech Republic believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.13714285714285715, 'Not a moral issue': 0.2671428571428571, 'Morally acceptable': 0.56}",0.4228571428571429,0.2,0.16,5
+Czech Republic,"Pick one. Do people in Czech Republic believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.21571428571428572, 'Not a moral issue': 0.24285714285714285, 'Morally acceptable': 0.45571428571428574}",0.24,0.0,0.0,5
+Czech Republic,"Pick one. Do people in Czech Republic believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.6571428571428571, 'Not a moral issue': 0.10428571428571429, 'Morally acceptable': 0.16714285714285715}",-0.49,-1.0,0.0,5
+Czech Republic,"Pick one. Do people in Czech Republic believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.6528571428571428, 'Not a moral issue': 0.18714285714285714, 'Morally acceptable': 0.11428571428571428}",-0.5385714285714285,0.0,0.0,5
+Czech Republic,"Pick one. Do people in Czech Republic believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.10428571428571429, 'Not a moral issue': 0.18142857142857144, 'Morally acceptable': 0.6714285714285714}",0.5671428571428571,0.0,0.0,5
+Turkey,"Pick one. Do people in Turkey believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.21, 'Not a moral issue': 0.226, 'Morally acceptable': 0.408}",0.1979999999999999,0.0,0.0,5
+Turkey,"Pick one. Do people in Turkey believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.279, 'Not a moral issue': 0.25, 'Morally acceptable': 0.304}",0.0249999999999999,0.0,0.0,5
+Turkey,"Pick one. Do people in Turkey believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.528, 'Not a moral issue': 0.163, 'Morally acceptable': 0.155}",-0.373,-1.0,0.0,5
+Turkey,"Pick one. Do people in Turkey believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.749, 'Not a moral issue': 0.096, 'Morally acceptable': 0.068}",-0.681,-1.0,0.0,5
+Turkey,"Pick one. Do people in Turkey believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.655, 'Not a moral issue': 0.186, 'Morally acceptable': 0.111}",-0.544,0.0,0.0,5
+Turkey,"Pick one. Do people in Turkey believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.919, 'Not a moral issue': 0.04, 'Morally acceptable': 0.02}",-0.899,-1.0,0.0,5
+Turkey,"Pick one. Do people in Turkey believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.749, 'Not a moral issue': 0.152, 'Morally acceptable': 0.064}",-0.685,0.0,0.0,5
+Turkey,"Pick one. Do people in Turkey believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.867, 'Not a moral issue': 0.051, 'Morally acceptable': 0.057}",-0.8099999999999999,-0.6,0.24,5
+Malaysia,"Pick one. Do people in Malaysia believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.38929440389294406, 'Not a moral issue': 0.23357664233576642, 'Morally acceptable': 0.21532846715328466}",-0.1739659367396594,0.0,0.0,5
+Malaysia,"Pick one. Do people in Malaysia believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.4416058394160584, 'Not a moral issue': 0.22019464720194648, 'Morally acceptable': 0.170316301703163}",-0.2712895377128954,0.0,0.0,5
+Malaysia,"Pick one. Do people in Malaysia believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.7773722627737226, 'Not a moral issue': 0.07785888077858881, 'Morally acceptable': 0.037712895377128956}",-0.7396593673965937,-0.6,0.24,5
+Malaysia,"Pick one. Do people in Malaysia believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.8746958637469586, 'Not a moral issue': 0.058394160583941604, 'Morally acceptable': 0.038929440389294405}",-0.8357664233576643,-1.0,0.0,5
+Malaysia,"Pick one. Do people in Malaysia believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.6970802919708029, 'Not a moral issue': 0.14841849148418493, 'Morally acceptable': 0.10827250608272507}",-0.5888077858880778,0.0,0.0,5
+Malaysia,"Pick one. Do people in Malaysia believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.8965936739659367, 'Not a moral issue': 0.05474452554744526, 'Morally acceptable': 0.01824817518248175}",-0.8783454987834549,-1.0,0.0,5
+Malaysia,"Pick one. Do people in Malaysia believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.7603406326034063, 'Not a moral issue': 0.12652068126520682, 'Morally acceptable': 0.08029197080291971}",-0.6800486618004866,0.0,0.0,5
+Malaysia,"Pick one. Do people in Malaysia believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.8698296836982968, 'Not a moral issue': 0.052311435523114354, 'Morally acceptable': 0.0340632603406326}",-0.8357664233576643,-0.8,0.16,5
+Russia,"Pick one. Do people in Russia believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.07028112449799197, 'Not a moral issue': 0.19176706827309237, 'Morally acceptable': 0.6285140562248996}",0.5582329317269077,0.2,0.16,5
+Russia,"Pick one. Do people in Russia believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.22088353413654618, 'Not a moral issue': 0.12650602409638553, 'Morally acceptable': 0.464859437751004}",0.2439759036144578,0.0,0.0,5
+Russia,"Pick one. Do people in Russia believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.4387550200803213, 'Not a moral issue': 0.10341365461847389, 'Morally acceptable': 0.2459839357429719}",-0.1927710843373494,-1.0,0.0,5
+Russia,"Pick one. Do people in Russia believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.7188755020080321, 'Not a moral issue': 0.09337349397590361, 'Morally acceptable': 0.09738955823293173}",-0.6214859437751004,-1.0,0.0,5
+Russia,"Pick one. Do people in Russia believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.4387550200803213, 'Not a moral issue': 0.1285140562248996, 'Morally acceptable': 0.26305220883534136}",-0.1757028112449799,0.2,0.16,5
+Russia,"Pick one. Do people in Russia believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.6897590361445783, 'Not a moral issue': 0.0893574297188755, 'Morally acceptable': 0.07329317269076305}",-0.6164658634538153,-1.0,0.0,5
+Russia,"Pick one. Do people in Russia believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.6094377510040161, 'Not a moral issue': 0.19076305220883535, 'Morally acceptable': 0.10441767068273092}",-0.5050200803212852,0.0,0.0,5
+Russia,"Pick one. Do people in Russia believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.30120481927710846, 'Not a moral issue': 0.10240963855421686, 'Morally acceptable': 0.4046184738955823}",0.1034136546184738,-0.6,0.24,5
+Ghana,"Pick one. Do people in Ghana believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.4981226533166458, 'Not a moral issue': 0.07008760951188986, 'Morally acceptable': 0.36795994993742176}",-0.130162703379224,0.2,0.16,5
+Ghana,"Pick one. Do people in Ghana believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.7759699624530664, 'Not a moral issue': 0.026282853566958697, 'Morally acceptable': 0.1113892365456821}",-0.6645807259073843,-1.0,0.0,5
+Ghana,"Pick one. Do people in Ghana believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.9161451814768461, 'Not a moral issue': 0.01877346683354193, 'Morally acceptable': 0.02252816020025031}",-0.8936170212765958,-1.0,0.0,5
+Ghana,"Pick one. Do people in Ghana believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.9737171464330413, 'Not a moral issue': 0.010012515644555695, 'Morally acceptable': 0.007509386733416771}",-0.9662077596996246,-1.0,0.0,5
+Ghana,"Pick one. Do people in Ghana believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.7834793491864831, 'Not a moral issue': 0.08886107634543179, 'Morally acceptable': 0.09136420525657071}",-0.6921151439299124,0.0,0.0,5
+Ghana,"Pick one. Do people in Ghana believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.8585732165206508, 'Not a moral issue': 0.025031289111389236, 'Morally acceptable': 0.0951188986232791}",-0.7634543178973716,-1.0,0.0,5
+Ghana,"Pick one. Do people in Ghana believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.9023779724655819, 'Not a moral issue': 0.04130162703379224, 'Morally acceptable': 0.03128911138923655}",-0.8710888610763454,0.0,0.0,5
+Ghana,"Pick one. Do people in Ghana believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.8322903629536921, 'Not a moral issue': 0.052565707133917394, 'Morally acceptable': 0.06758448060075094}",-0.7647058823529411,-0.8,0.16,5
+Pakistan,"Pick one. Do people in Pakistan believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.6244796003330558, 'Not a moral issue': 0.06994171523730225, 'Morally acceptable': 0.14487926727726894}",-0.4796003330557868,-1.0,0.0,5
+Pakistan,"Pick one. Do people in Pakistan believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.7268942547876769, 'Not a moral issue': 0.04329725228975854, 'Morally acceptable': 0.08243130724396336}",-0.6444629475437136,-1.0,0.0,5
+Pakistan,"Pick one. Do people in Pakistan believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.8409658617818485, 'Not a moral issue': 0.049125728559533725, 'Morally acceptable': 0.004995836802664446}",-0.835970024979184,-1.0,0.0,5
+Pakistan,"Pick one. Do people in Pakistan believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.8701082431307244, 'Not a moral issue': 0.030807660283097418, 'Morally acceptable': 0.005828476269775187}",-0.8642797668609492,-1.0,0.0,5
+Pakistan,"Pick one. Do people in Pakistan believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.9333888426311407, 'Not a moral issue': 0.022481265611990008, 'Morally acceptable': 0.004995836802664446}",-0.9283930058284764,-1.0,0.0,5
+Pakistan,"Pick one. Do people in Pakistan believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.9175686927560366, 'Not a moral issue': 0.034970857618651124, 'Morally acceptable': 0.002497918401332223}",-0.9150707743547044,-1.0,0.0,5
+Pakistan,"Pick one. Do people in Pakistan believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.9367194004995837, 'Not a moral issue': 0.038301415487094086, 'Morally acceptable': 0.002497918401332223}",-0.9342214820982516,-1.0,0.0,5
+Pakistan,"Pick one. Do people in Pakistan believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.9408825978351374, 'Not a moral issue': 0.020815986677768527, 'Morally acceptable': 0.002497918401332223}",-0.9383846794338052,-1.0,0.0,5
+China,"Pick one. Do people in China believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.12802231866088035, 'Not a moral issue': 0.28208307501549906, 'Morally acceptable': 0.48729076255424675}",0.3592684438933664,0.0,0.0,5
+China,"Pick one. Do people in China believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.24891506509609423, 'Not a moral issue': 0.18381897086174828, 'Morally acceptable': 0.4482331060136392}",0.1993180409175449,-0.8,0.16,5
+China,"Pick one. Do people in China believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.3660880347179169, 'Not a moral issue': 0.20706757594544328, 'Morally acceptable': 0.29324240545567265}",-0.0728456292622442,0.2,0.16,5
+China,"Pick one. Do people in China believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.6047737135771853, 'Not a moral issue': 0.1689398636081835, 'Morally acceptable': 0.1323620582765034}",-0.4724116553006819,-1.0,0.0,5
+China,"Pick one. Do people in China believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.40731556106633604, 'Not a moral issue': 0.36546807191568503, 'Morally acceptable': 0.11965282083075016}",-0.2876627402355859,0.2,0.16,5
+China,"Pick one. Do people in China believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.7371357718536887, 'Not a moral issue': 0.12306261624302542, 'Morally acceptable': 0.07718536887786732}",-0.6599504029758214,-1.0,0.0,5
+China,"Pick one. Do people in China believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.5489770613763174, 'Not a moral issue': 0.27991320520768753, 'Morally acceptable': 0.08679479231246125}",-0.4621822690638562,0.0,0.0,5
+China,"Pick one. Do people in China believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.5756354618722876, 'Not a moral issue': 0.17234965902045876, 'Morally acceptable': 0.12182269063856169}",-0.453812771233726,-1.0,0.0,5
+Brazil,"Pick one. Do people in Brazil believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.08020833333333334, 'Not a moral issue': 0.11354166666666667, 'Morally acceptable': 0.7895833333333333}",0.709375,0.0,0.0,5
+Brazil,"Pick one. Do people in Brazil believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.240625, 'Not a moral issue': 0.1, 'Morally acceptable': 0.615625}",0.375,0.8,0.16,5
+Brazil,"Pick one. Do people in Brazil believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.7947916666666667, 'Not a moral issue': 0.09270833333333334, 'Morally acceptable': 0.07083333333333333}",-0.7239583333333334,0.6,0.24,5
+Brazil,"Pick one. Do people in Brazil believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.3875, 'Not a moral issue': 0.140625, 'Morally acceptable': 0.4395833333333333}",0.0520833333333333,0.6,0.24,5
+Brazil,"Pick one. Do people in Brazil believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.46979166666666666, 'Not a moral issue': 0.203125, 'Morally acceptable': 0.2947916666666667}",-0.175,0.2,0.16,5
+Brazil,"Pick one. Do people in Brazil believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.8364583333333333, 'Not a moral issue': 0.0875, 'Morally acceptable': 0.057291666666666664}",-0.7791666666666667,0.2,0.16,5
+Brazil,"Pick one. Do people in Brazil believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.6416666666666667, 'Not a moral issue': 0.19270833333333334, 'Morally acceptable': 0.14583333333333334}",-0.4958333333333333,0.0,0.0,5
+Brazil,"Pick one. Do people in Brazil believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.35, 'Not a moral issue': 0.13958333333333334, 'Morally acceptable': 0.4739583333333333}",0.1239583333333333,0.0,0.0,5
+Canada,"Pick one. Do people in Canada believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.037089871611982884, 'Not a moral issue': 0.43081312410841655, 'Morally acceptable': 0.4921540656205421}",0.4550641940085592,0.0,0.0,5
+Canada,"Pick one. Do people in Canada believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.09415121255349501, 'Not a moral issue': 0.4693295292439372, 'Morally acceptable': 0.369472182596291}",0.275320970042796,0.0,0.0,5
+Canada,"Pick one. Do people in Canada believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.25392296718972895, 'Not a moral issue': 0.3666191155492154, 'Morally acceptable': 0.2653352353780314}",0.0114122681883024,0.0,0.0,5
+Canada,"Pick one. Do people in Canada believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.15834522111269614, 'Not a moral issue': 0.4921540656205421, 'Morally acceptable': 0.2995720399429387}",0.1412268188302425,0.0,0.0,5
+Canada,"Pick one. Do people in Canada believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.09272467902995721, 'Not a moral issue': 0.5634807417974322, 'Morally acceptable': 0.31098430813124106}",0.2182596291012838,0.0,0.0,5
+Canada,"Pick one. Do people in Canada believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.7532097004279601, 'Not a moral issue': 0.17403708987161198, 'Morally acceptable': 0.039942938659058486}",-0.7132667617689016,-0.6,0.24,5
+Canada,"Pick one. Do people in Canada believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.23680456490727533, 'Not a moral issue': 0.543509272467903, 'Morally acceptable': 0.1840228245363766}",-0.0527817403708987,0.0,0.0,5
+Canada,"Pick one. Do people in Canada believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.15263908701854492, 'Not a moral issue': 0.46790299572039945, 'Morally acceptable': 0.34522111269614836}",0.1925820256776034,0.0,0.0,5
+France,"Pick one. Do people in France believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.02888446215139442, 'Not a moral issue': 0.4302788844621514, 'Morally acceptable': 0.5408366533864541}",0.5119521912350598,0.0,0.0,5
+France,"Pick one. Do people in France believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.043824701195219126, 'Not a moral issue': 0.5338645418326693, 'Morally acceptable': 0.4213147410358566}",0.3774900398406374,0.0,0.0,5
+France,"Pick one. Do people in France believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.12350597609561753, 'Not a moral issue': 0.4960159362549801, 'Morally acceptable': 0.37350597609561753}",0.25,0.0,0.0,5
+France,"Pick one. Do people in France believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.11852589641434264, 'Not a moral issue': 0.5249003984063745, 'Morally acceptable': 0.3565737051792829}",0.2380478087649402,0.0,0.0,5
+France,"Pick one. Do people in France believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.13844621513944222, 'Not a moral issue': 0.5906374501992032, 'Morally acceptable': 0.2639442231075697}",0.1254980079681275,0.0,0.0,5
+France,"Pick one. Do people in France believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.4711155378486056, 'Not a moral issue': 0.4063745019920319, 'Morally acceptable': 0.12151394422310757}",-0.349601593625498,0.0,0.0,5
+France,"Pick one. Do people in France believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.13346613545816732, 'Not a moral issue': 0.5687250996015937, 'Morally acceptable': 0.2968127490039841}",0.1633466135458167,0.0,0.0,5
+France,"Pick one. Do people in France believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.04880478087649402, 'Not a moral issue': 0.4910358565737052, 'Morally acceptable': 0.4591633466135458}",0.4103585657370517,0.0,0.0,5
+Chile,"Pick one. Do people in Chile believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.05875, 'Not a moral issue': 0.1525, 'Morally acceptable': 0.76625}",0.7075,0.8,0.16,5
+Chile,"Pick one. Do people in Chile believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.16375, 'Not a moral issue': 0.14625, 'Morally acceptable': 0.66375}",0.4999999999999999,1.0,0.0,5
+Chile,"Pick one. Do people in Chile believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.61625, 'Not a moral issue': 0.09625, 'Morally acceptable': 0.16375}",-0.4524999999999999,1.0,0.0,5
+Chile,"Pick one. Do people in Chile believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.3125, 'Not a moral issue': 0.12625, 'Morally acceptable': 0.465}",0.1525,0.8,0.16,5
+Chile,"Pick one. Do people in Chile believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.315, 'Not a moral issue': 0.29375, 'Morally acceptable': 0.3}",-0.015,0.4,0.24,5
+Chile,"Pick one. Do people in Chile believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.675, 'Not a moral issue': 0.14625, 'Morally acceptable': 0.12625}",-0.5487500000000001,-1.0,0.0,5
+Chile,"Pick one. Do people in Chile believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.46875, 'Not a moral issue': 0.26625, 'Morally acceptable': 0.16375}",-0.305,0.2,0.16,5
+Chile,"Pick one. Do people in Chile believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.12625, 'Not a moral issue': 0.2375, 'Morally acceptable': 0.56625}",0.44,0.0,0.0,5
+Greece,"Pick one. Do people in Greece believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.142, 'Not a moral issue': 0.334, 'Morally acceptable': 0.445}",0.303,0.2,0.16,5
+Greece,"Pick one. Do people in Greece believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.185, 'Not a moral issue': 0.277, 'Morally acceptable': 0.418}",0.2329999999999999,0.0,0.0,5
+Greece,"Pick one. Do people in Greece believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.54, 'Not a moral issue': 0.113, 'Morally acceptable': 0.159}",-0.381,-0.2,0.16,5
+Greece,"Pick one. Do people in Greece believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.447, 'Not a moral issue': 0.236, 'Morally acceptable': 0.237}",-0.21,0.0,0.0,5
+Greece,"Pick one. Do people in Greece believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.229, 'Not a moral issue': 0.471, 'Morally acceptable': 0.219}",-0.01,0.2,0.16,5
+Greece,"Pick one. Do people in Greece believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.785, 'Not a moral issue': 0.115, 'Morally acceptable': 0.048}",-0.737,-1.0,0.0,5
+Greece,"Pick one. Do people in Greece believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.52, 'Not a moral issue': 0.365, 'Morally acceptable': 0.074}",-0.446,0.0,0.0,5
+Greece,"Pick one. Do people in Greece believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.11, 'Not a moral issue': 0.274, 'Morally acceptable': 0.594}",0.484,0.0,0.0,5
+Poland,"Pick one. Do people in Poland believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.16625, 'Not a moral issue': 0.24125, 'Morally acceptable': 0.47875}",0.3125,0.0,0.0,5
+Poland,"Pick one. Do people in Poland believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.215, 'Not a moral issue': 0.2475, 'Morally acceptable': 0.35625}",0.14125,0.2,0.16,5
+Poland,"Pick one. Do people in Poland believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.46875, 'Not a moral issue': 0.12625, 'Morally acceptable': 0.1375}",-0.33125,-1.0,0.0,5
+Poland,"Pick one. Do people in Poland believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.4225, 'Not a moral issue': 0.265, 'Morally acceptable': 0.2175}",-0.205,-1.0,0.0,5
+Poland,"Pick one. Do people in Poland believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.165, 'Not a moral issue': 0.34125, 'Morally acceptable': 0.37125}",0.20625,0.0,0.0,5
+Poland,"Pick one. Do people in Poland believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.705, 'Not a moral issue': 0.125, 'Morally acceptable': 0.095}",-0.61,-1.0,0.0,5
+Poland,"Pick one. Do people in Poland believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.325, 'Not a moral issue': 0.38, 'Morally acceptable': 0.21625}",-0.10875,0.0,0.0,5
+Poland,"Pick one. Do people in Poland believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.2175, 'Not a moral issue': 0.2225, 'Morally acceptable': 0.43875}",0.2212499999999999,0.0,0.0,5
+Argentina,"Pick one. Do people in Argentina believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.05860805860805861, 'Not a moral issue': 0.22466422466422467, 'Morally acceptable': 0.6910866910866911}",0.6324786324786325,0.2,0.16,5
+Argentina,"Pick one. Do people in Argentina believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.1562881562881563, 'Not a moral issue': 0.21855921855921856, 'Morally acceptable': 0.5946275946275946}",0.4383394383394383,1.0,0.0,5
+Argentina,"Pick one. Do people in Argentina believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.5421245421245421, 'Not a moral issue': 0.11965811965811966, 'Morally acceptable': 0.15995115995115994}",-0.3821733821733821,1.0,0.0,5
+Argentina,"Pick one. Do people in Argentina believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.2686202686202686, 'Not a moral issue': 0.2148962148962149, 'Morally acceptable': 0.4700854700854701}",0.2014652014652014,0.4,0.24,5
+Argentina,"Pick one. Do people in Argentina believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.3968253968253968, 'Not a moral issue': 0.2967032967032967, 'Morally acceptable': 0.2600732600732601}",-0.1367521367521367,0.4,0.24,5
+Argentina,"Pick one. Do people in Argentina believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.7057387057387058, 'Not a moral issue': 0.13064713064713065, 'Morally acceptable': 0.11355311355311355}",-0.5921855921855922,-1.0,0.0,5
+Argentina,"Pick one. Do people in Argentina believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.4700854700854701, 'Not a moral issue': 0.2857142857142857, 'Morally acceptable': 0.19536019536019536}",-0.2747252747252747,0.0,0.0,5
+Argentina,"Pick one. Do people in Argentina believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.21123321123321123, 'Not a moral issue': 0.3028083028083028, 'Morally acceptable': 0.43345543345543347}",0.2222222222222222,0.0,0.0,5
+Israel,"Pick one. Do people in Israel believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.21691973969631237, 'Not a moral issue': 0.2559652928416486, 'Morally acceptable': 0.39370932754880694}",0.1767895878524945,0.4,0.24,5
+Israel,"Pick one. Do people in Israel believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.27440347071583515, 'Not a moral issue': 0.30585683297180044, 'Morally acceptable': 0.272234273318872}",-0.0021691973969631,0.4,0.24,5
+Israel,"Pick one. Do people in Israel believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.3774403470715835, 'Not a moral issue': 0.21800433839479394, 'Morally acceptable': 0.20281995661605207}",-0.1746203904555314,-0.2,0.56,5
+Israel,"Pick one. Do people in Israel believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.5726681127982647, 'Not a moral issue': 0.18546637744034708, 'Morally acceptable': 0.19414316702819956}",-0.3785249457700651,-1.0,0.0,5
+Israel,"Pick one. Do people in Israel believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.3806941431670282, 'Not a moral issue': 0.3297180043383948, 'Morally acceptable': 0.22885032537960953}",-0.1518438177874186,0.4,0.24,5
+Israel,"Pick one. Do people in Israel believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.7787418655097614, 'Not a moral issue': 0.10303687635574837, 'Morally acceptable': 0.08893709327548807}",-0.6898047722342734,-1.0,0.0,5
+Israel,"Pick one. Do people in Israel believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.586767895878525, 'Not a moral issue': 0.2592190889370933, 'Morally acceptable': 0.12472885032537961}",-0.4620390455531453,0.0,0.0,5
+Israel,"Pick one. Do people in Israel believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.5086767895878525, 'Not a moral issue': 0.1843817787418655, 'Morally acceptable': 0.25488069414316705}",-0.2537960954446854,0.0,0.0,5
+Indonesia,"Pick one. Do people in Indonesia believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.103, 'Not a moral issue': 0.152, 'Morally acceptable': 0.644}",0.541,0.0,0.0,5
+Indonesia,"Pick one. Do people in Indonesia believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.576, 'Not a moral issue': 0.095, 'Morally acceptable': 0.196}",-0.3799999999999999,0.0,0.0,5
+Indonesia,"Pick one. Do people in Indonesia believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.889, 'Not a moral issue': 0.016, 'Morally acceptable': 0.011}",-0.878,-0.8,0.16,5
+Indonesia,"Pick one. Do people in Indonesia believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.936, 'Not a moral issue': 0.025, 'Morally acceptable': 0.024}",-0.912,-1.0,0.0,5
+Indonesia,"Pick one. Do people in Indonesia believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.856, 'Not a moral issue': 0.085, 'Morally acceptable': 0.022}",-0.834,0.0,0.0,5
+Indonesia,"Pick one. Do people in Indonesia believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.927, 'Not a moral issue': 0.044, 'Morally acceptable': 0.011}",-0.916,-1.0,0.0,5
+Indonesia,"Pick one. Do people in Indonesia believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.883, 'Not a moral issue': 0.083, 'Morally acceptable': 0.018}",-0.865,0.0,0.0,5
+Indonesia,"Pick one. Do people in Indonesia believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.963, 'Not a moral issue': 0.016, 'Morally acceptable': 0.012}",-0.951,-1.0,0.0,5
+Australia,"Pick one. Do people in Australia believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.03, 'Not a moral issue': 0.35, 'Morally acceptable': 0.5975}",0.5675,0.0,0.0,5
+Australia,"Pick one. Do people in Australia believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.06875, 'Not a moral issue': 0.41375, 'Morally acceptable': 0.47125}",0.4024999999999999,0.2,0.16,5
+Australia,"Pick one. Do people in Australia believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.2425, 'Not a moral issue': 0.3, 'Morally acceptable': 0.3225}",0.08,0.0,0.0,5
+Australia,"Pick one. Do people in Australia believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.17, 'Not a moral issue': 0.44125, 'Morally acceptable': 0.3425}",0.1725,0.2,0.16,5
+Australia,"Pick one. Do people in Australia believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.08875, 'Not a moral issue': 0.45, 'Morally acceptable': 0.38875}",0.3,0.2,0.16,5
+Australia,"Pick one. Do people in Australia believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.7975, 'Not a moral issue': 0.12125, 'Morally acceptable': 0.04625}",-0.75125,0.0,0.0,5
+Australia,"Pick one. Do people in Australia believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.35375, 'Not a moral issue': 0.37125, 'Morally acceptable': 0.1975}",-0.15625,0.0,0.0,5
+Australia,"Pick one. Do people in Australia believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.1375, 'Not a moral issue': 0.445, 'Morally acceptable': 0.3825}",0.245,0.0,0.0,5
+Egypt,"Pick one. Do people in Egypt believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.067, 'Not a moral issue': 0.361, 'Morally acceptable': 0.35}",0.283,-0.4,0.24,5
+Egypt,"Pick one. Do people in Egypt believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.07, 'Not a moral issue': 0.296, 'Morally acceptable': 0.512}",0.442,0.2,0.16,5
+Egypt,"Pick one. Do people in Egypt believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.621, 'Not a moral issue': 0.222, 'Morally acceptable': 0.05}",-0.571,-1.0,0.0,5
+Egypt,"Pick one. Do people in Egypt believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.949, 'Not a moral issue': 0.013, 'Morally acceptable': 0.013}",-0.936,-1.0,0.0,5
+Egypt,"Pick one. Do people in Egypt believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.752, 'Not a moral issue': 0.128, 'Morally acceptable': 0.045}",-0.707,-1.0,0.0,5
+Egypt,"Pick one. Do people in Egypt believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.928, 'Not a moral issue': 0.042, 'Morally acceptable': 0.019}",-0.909,-1.0,0.0,5
+Egypt,"Pick one. Do people in Egypt believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.907, 'Not a moral issue': 0.054, 'Morally acceptable': 0.026}",-0.881,-0.4,0.24,5
+Egypt,"Pick one. Do people in Egypt believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.902, 'Not a moral issue': 0.062, 'Morally acceptable': 0.023}",-0.879,-1.0,0.0,5
+Tunisia,"Pick one. Do people in Tunisia believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.393, 'Not a moral issue': 0.171, 'Morally acceptable': 0.265}",-0.128,0.0,0.0,5
+Tunisia,"Pick one. Do people in Tunisia believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.471, 'Not a moral issue': 0.218, 'Morally acceptable': 0.151}",-0.3199999999999999,0.8,0.16,5
+Tunisia,"Pick one. Do people in Tunisia believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.779, 'Not a moral issue': 0.06, 'Morally acceptable': 0.037}",-0.742,-1.0,0.0,5
+Tunisia,"Pick one. Do people in Tunisia believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.925, 'Not a moral issue': 0.035, 'Morally acceptable': 0.004}",-0.921,-1.0,0.0,5
+Tunisia,"Pick one. Do people in Tunisia believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.857, 'Not a moral issue': 0.056, 'Morally acceptable': 0.05}",-0.8069999999999999,-0.4,0.24,5
+Tunisia,"Pick one. Do people in Tunisia believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.904, 'Not a moral issue': 0.035, 'Morally acceptable': 0.027}",-0.877,-1.0,0.0,5
+Tunisia,"Pick one. Do people in Tunisia believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.914, 'Not a moral issue': 0.041, 'Morally acceptable': 0.013}",-0.901,-0.4,0.24,5
+Tunisia,"Pick one. Do people in Tunisia believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.897, 'Not a moral issue': 0.033, 'Morally acceptable': 0.032}",-0.865,-0.8,0.16,5
+Britain,"Pick one. Do people in Britain believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.030632411067193676, 'Not a moral issue': 0.30533596837944665, 'Morally acceptable': 0.6284584980237155}",0.5978260869565217,0.0,0.0,5
+Britain,"Pick one. Do people in Britain believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.08893280632411067, 'Not a moral issue': 0.4051383399209486, 'Morally acceptable': 0.41699604743083}",0.3280632411067193,0.0,0.0,5
+Britain,"Pick one. Do people in Britain believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.2440711462450593, 'Not a moral issue': 0.2816205533596838, 'Morally acceptable': 0.2628458498023715}",0.0187747035573122,0.2,0.16,5
+Britain,"Pick one. Do people in Britain believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.17490118577075098, 'Not a moral issue': 0.4268774703557312, 'Morally acceptable': 0.34980237154150196}",0.1749011857707509,0.0,0.0,5
+Britain,"Pick one. Do people in Britain believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.09090909090909091, 'Not a moral issue': 0.45849802371541504, 'Morally acceptable': 0.383399209486166}",0.2924901185770751,0.0,0.0,5
+Britain,"Pick one. Do people in Britain believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.7450592885375494, 'Not a moral issue': 0.1590909090909091, 'Morally acceptable': 0.040513833992094864}",-0.7045454545454546,-1.0,0.0,5
+Britain,"Pick one. Do people in Britain believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.26679841897233203, 'Not a moral issue': 0.44565217391304346, 'Morally acceptable': 0.21936758893280633}",-0.0474308300395256,0.0,0.0,5
+Britain,"Pick one. Do people in Britain believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.13142292490118576, 'Not a moral issue': 0.43478260869565216, 'Morally acceptable': 0.3804347826086957}",0.2490118577075099,0.0,0.0,5
+Kenya,"Pick one. Do people in Kenya believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.32456140350877194, 'Not a moral issue': 0.11403508771929824, 'Morally acceptable': 0.47117794486215536}",0.1466165413533834,0.2,0.16,5
+Kenya,"Pick one. Do people in Kenya believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.581453634085213, 'Not a moral issue': 0.13784461152882205, 'Morally acceptable': 0.17794486215538846}",-0.4035087719298245,-1.0,0.0,5
+Kenya,"Pick one. Do people in Kenya believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.818295739348371, 'Not a moral issue': 0.07769423558897243, 'Morally acceptable': 0.03634085213032581}",-0.7819548872180452,-1.0,0.0,5
+Kenya,"Pick one. Do people in Kenya believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.8784461152882206, 'Not a moral issue': 0.09022556390977443, 'Morally acceptable': 0.03007518796992481}",-0.8483709273182958,-1.0,0.0,5
+Kenya,"Pick one. Do people in Kenya believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.581453634085213, 'Not a moral issue': 0.23684210526315788, 'Morally acceptable': 0.10275689223057644}",-0.4786967418546365,-1.0,0.0,5
+Kenya,"Pick one. Do people in Kenya believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.7969924812030075, 'Not a moral issue': 0.08145363408521303, 'Morally acceptable': 0.08395989974937343}",-0.713032581453634,-1.0,0.0,5
+Kenya,"Pick one. Do people in Kenya believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.6466165413533834, 'Not a moral issue': 0.20927318295739347, 'Morally acceptable': 0.05263157894736842}",-0.593984962406015,-0.4,0.24,5
+Kenya,"Pick one. Do people in Kenya believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.793233082706767, 'Not a moral issue': 0.12656641604010024, 'Morally acceptable': 0.046365914786967416}",-0.7468671679197996,-1.0,0.0,5
+Jordan,"Pick one. Do people in Jordan believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.064, 'Not a moral issue': 0.355, 'Morally acceptable': 0.375}",0.311,0.2,0.16,5
+Jordan,"Pick one. Do people in Jordan believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.058, 'Not a moral issue': 0.289, 'Morally acceptable': 0.535}",0.477,0.0,0.0,5
+Jordan,"Pick one. Do people in Jordan believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.529, 'Not a moral issue': 0.357, 'Morally acceptable': 0.035}",-0.494,-1.0,0.0,5
+Jordan,"Pick one. Do people in Jordan believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.951, 'Not a moral issue': 0.025, 'Morally acceptable': 0.019}",-0.932,-1.0,0.0,5
+Jordan,"Pick one. Do people in Jordan believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.852, 'Not a moral issue': 0.115, 'Morally acceptable': 0.033}",-0.819,-1.0,0.0,5
+Jordan,"Pick one. Do people in Jordan believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.927, 'Not a moral issue': 0.053, 'Morally acceptable': 0.008}",-0.919,-1.0,0.0,5
+Jordan,"Pick one. Do people in Jordan believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.91, 'Not a moral issue': 0.058, 'Morally acceptable': 0.024}",-0.886,-1.0,0.0,5
+Jordan,"Pick one. Do people in Jordan believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.954, 'Not a moral issue': 0.029, 'Morally acceptable': 0.013}",-0.941,-1.0,0.0,5
+Lebanon,"Pick one. Do people in Lebanon believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.127, 'Not a moral issue': 0.306, 'Morally acceptable': 0.343}",0.216,0.2,0.16,5
+Lebanon,"Pick one. Do people in Lebanon believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.094, 'Not a moral issue': 0.276, 'Morally acceptable': 0.481}",0.387,0.2,0.16,5
+Lebanon,"Pick one. Do people in Lebanon believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.564, 'Not a moral issue': 0.183, 'Morally acceptable': 0.078}",-0.4859999999999999,-1.0,0.0,5
+Lebanon,"Pick one. Do people in Lebanon believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.796, 'Not a moral issue': 0.109, 'Morally acceptable': 0.07}",-0.726,-1.0,0.0,5
+Lebanon,"Pick one. Do people in Lebanon believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.511, 'Not a moral issue': 0.21, 'Morally acceptable': 0.25}",-0.261,0.2,0.16,5
+Lebanon,"Pick one. Do people in Lebanon believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.916, 'Not a moral issue': 0.033, 'Morally acceptable': 0.002}",-0.914,-1.0,0.0,5
+Lebanon,"Pick one. Do people in Lebanon believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.771, 'Not a moral issue': 0.165, 'Morally acceptable': 0.042}",-0.729,0.0,0.0,5
+Lebanon,"Pick one. Do people in Lebanon believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.811, 'Not a moral issue': 0.084, 'Morally acceptable': 0.051}",-0.76,0.0,0.0,5
+Bolivia,"Pick one. Do people in Bolivia believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.18125, 'Not a moral issue': 0.1375, 'Morally acceptable': 0.5725}",0.39125,0.4,0.24,5
+Bolivia,"Pick one. Do people in Bolivia believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.4825, 'Not a moral issue': 0.105, 'Morally acceptable': 0.29375}",-0.1887499999999999,0.8,0.16,5
+Bolivia,"Pick one. Do people in Bolivia believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.82, 'Not a moral issue': 0.0375, 'Morally acceptable': 0.05}",-0.7699999999999999,-1.0,0.0,5
+Bolivia,"Pick one. Do people in Bolivia believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.5125, 'Not a moral issue': 0.0925, 'Morally acceptable': 0.31375}",-0.1987499999999999,-1.0,0.0,5
+Bolivia,"Pick one. Do people in Bolivia believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.695, 'Not a moral issue': 0.12625, 'Morally acceptable': 0.1225}",-0.5725,0.8,0.16,5
+Bolivia,"Pick one. Do people in Bolivia believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.8425, 'Not a moral issue': 0.05375, 'Morally acceptable': 0.06}",-0.7825,-1.0,0.0,5
+Bolivia,"Pick one. Do people in Bolivia believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.6075, 'Not a moral issue': 0.17375, 'Morally acceptable': 0.1}",-0.5075000000000001,0.2,0.16,5
+Bolivia,"Pick one. Do people in Bolivia believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.5325, 'Not a moral issue': 0.10375, 'Morally acceptable': 0.20625}",-0.32625,0.0,0.0,5
+Palestinian territories,"Pick one. Do people in Palestinian territories believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.1345679012345679, 'Not a moral issue': 0.24814814814814815, 'Morally acceptable': 0.408641975308642}",0.2740740740740741,0.0,0.0,5
+Palestinian territories,"Pick one. Do people in Palestinian territories believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.22469135802469137, 'Not a moral issue': 0.2765432098765432, 'Morally acceptable': 0.2691358024691358}",0.0444444444444444,1.0,0.0,5
+Palestinian territories,"Pick one. Do people in Palestinian territories believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.5395061728395062, 'Not a moral issue': 0.1345679012345679, 'Morally acceptable': 0.07037037037037037}",-0.4691358024691358,-1.0,0.0,5
+Palestinian territories,"Pick one. Do people in Palestinian territories believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.9382716049382716, 'Not a moral issue': 0.03950617283950617, 'Morally acceptable': 0.007407407407407408}",-0.930864197530864,-1.0,0.0,5
+Palestinian territories,"Pick one. Do people in Palestinian territories believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.8901234567901235, 'Not a moral issue': 0.09259259259259259, 'Morally acceptable': 0.008641975308641974}",-0.8814814814814815,-1.0,0.0,5
+Palestinian territories,"Pick one. Do people in Palestinian territories believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.9395061728395062, 'Not a moral issue': 0.03827160493827161, 'Morally acceptable': 0.007407407407407408}",-0.9320987654320988,-1.0,0.0,5
+Palestinian territories,"Pick one. Do people in Palestinian territories believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.9123456790123456, 'Not a moral issue': 0.0691358024691358, 'Morally acceptable': 0.008641975308641974}",-0.9037037037037036,-1.0,0.0,5
+Palestinian territories,"Pick one. Do people in Palestinian territories believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.9395061728395062, 'Not a moral issue': 0.03950617283950617, 'Morally acceptable': 0.012345679012345678}",-0.9271604938271604,-1.0,0.0,5
+Italy,"Pick one. Do people in Italy believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.048868778280542986, 'Not a moral issue': 0.29321266968325793, 'Morally acceptable': 0.6063348416289592}",0.5574660633484162,0.0,0.0,5
+Italy,"Pick one. Do people in Italy believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.16832579185520363, 'Not a moral issue': 0.2253393665158371, 'Morally acceptable': 0.5040723981900452}",0.3357466063348416,0.4,0.24,5
+Italy,"Pick one. Do people in Italy believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.4072398190045249, 'Not a moral issue': 0.11402714932126697, 'Morally acceptable': 0.25882352941176473}",-0.1484162895927601,0.2,0.16,5
+Italy,"Pick one. Do people in Italy believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.16470588235294117, 'Not a moral issue': 0.31493212669683257, 'Morally acceptable': 0.4579185520361991}",0.2932126696832579,0.2,0.16,5
+Italy,"Pick one. Do people in Italy believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.27963800904977376, 'Not a moral issue': 0.4850678733031674, 'Morally acceptable': 0.15475113122171946}",-0.1248868778280543,0.2,0.16,5
+Italy,"Pick one. Do people in Italy believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.6407239819004525, 'Not a moral issue': 0.16108597285067874, 'Morally acceptable': 0.10407239819004525}",-0.5366515837104073,-1.0,0.0,5
+Italy,"Pick one. Do people in Italy believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.3411764705882353, 'Not a moral issue': 0.46153846153846156, 'Morally acceptable': 0.12941176470588237}",-0.2117647058823529,0.0,0.0,5
+Italy,"Pick one. Do people in Italy believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.10226244343891402, 'Not a moral issue': 0.39547511312217193, 'Morally acceptable': 0.4452488687782805}",0.3429864253393665,0.0,0.0,5
+El Salvador,"Pick one. Do people in El Salvador believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.21717171717171718, 'Not a moral issue': 0.10984848484848485, 'Morally acceptable': 0.6376262626262627}",0.4204545454545454,1.0,0.0,5
+El Salvador,"Pick one. Do people in El Salvador believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.47853535353535354, 'Not a moral issue': 0.09595959595959595, 'Morally acceptable': 0.30303030303030304}",-0.1755050505050505,-0.4,0.6399999999999999,5
+El Salvador,"Pick one. Do people in El Salvador believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.8535353535353535, 'Not a moral issue': 0.030303030303030304, 'Morally acceptable': 0.01893939393939394}",-0.8345959595959596,-1.0,0.0,5
+El Salvador,"Pick one. Do people in El Salvador believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.7032828282828283, 'Not a moral issue': 0.09217171717171717, 'Morally acceptable': 0.16792929292929293}",-0.5353535353535354,-1.0,0.0,5
+El Salvador,"Pick one. Do people in El Salvador believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.803030303030303, 'Not a moral issue': 0.08838383838383838, 'Morally acceptable': 0.08838383838383838}",-0.7146464646464646,0.4,0.24,5
+El Salvador,"Pick one. Do people in El Salvador believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.8939393939393939, 'Not a moral issue': 0.041666666666666664, 'Morally acceptable': 0.036616161616161616}",-0.8573232323232323,-1.0,0.0,5
+El Salvador,"Pick one. Do people in El Salvador believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.8080808080808081, 'Not a moral issue': 0.10984848484848485, 'Morally acceptable': 0.059343434343434344}",-0.7487373737373737,-0.6,0.24,5
+El Salvador,"Pick one. Do people in El Salvador believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.5580808080808081, 'Not a moral issue': 0.1351010101010101, 'Morally acceptable': 0.2398989898989899}",-0.3181818181818182,-1.0,0.0,5
+Mexico,"Pick one. Do people in Mexico believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.135, 'Not a moral issue': 0.194, 'Morally acceptable': 0.615}",0.48,0.6,0.24,5
+Mexico,"Pick one. Do people in Mexico believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.329, 'Not a moral issue': 0.16, 'Morally acceptable': 0.406}",0.077,0.6,0.24,5
+Mexico,"Pick one. Do people in Mexico believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.622, 'Not a moral issue': 0.12, 'Morally acceptable': 0.152}",-0.47,-1.0,0.0,5
+Mexico,"Pick one. Do people in Mexico believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.4, 'Not a moral issue': 0.164, 'Morally acceptable': 0.352}",-0.048,-1.0,0.0,5
+Mexico,"Pick one. Do people in Mexico believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.406, 'Not a moral issue': 0.305, 'Morally acceptable': 0.218}",-0.188,0.4,0.24,5
+Mexico,"Pick one. Do people in Mexico believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.728, 'Not a moral issue': 0.117, 'Morally acceptable': 0.095}",-0.633,-1.0,0.0,5
+Mexico,"Pick one. Do people in Mexico believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.492, 'Not a moral issue': 0.298, 'Morally acceptable': 0.132}",-0.36,0.2,0.16,5
+Mexico,"Pick one. Do people in Mexico believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.434, 'Not a moral issue': 0.208, 'Morally acceptable': 0.263}",-0.1709999999999999,0.0,0.0,5
+South Korea,"Pick one. Do people in South Korea believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.15698393077873918, 'Not a moral issue': 0.2546353522867738, 'Morally acceptable': 0.4820766378244747}",0.3250927070457355,0.0,0.0,5
+South Korea,"Pick one. Do people in South Korea believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.273176761433869, 'Not a moral issue': 0.2830655129789864, 'Morally acceptable': 0.30902348578491967}",0.0358467243510506,0.2,0.16,5
+South Korea,"Pick one. Do people in South Korea believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.5896168108776267, 'Not a moral issue': 0.11248454882571075, 'Morally acceptable': 0.1841779975278121}",-0.4054388133498146,-0.2,0.16,5
+South Korea,"Pick one. Do people in South Korea believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.595797280593325, 'Not a moral issue': 0.19777503090234858, 'Morally acceptable': 0.17058096415327564}",-0.4252163164400494,0.0,0.0,5
+South Korea,"Pick one. Do people in South Korea believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.22249690976514216, 'Not a moral issue': 0.34981458590852904, 'Morally acceptable': 0.33498145859085293}",0.1124845488257107,0.0,0.0,5
+South Korea,"Pick one. Do people in South Korea believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.8059332509270705, 'Not a moral issue': 0.07911001236093942, 'Morally acceptable': 0.08281829419035847}",-0.723114956736712,-1.0,0.0,5
+South Korea,"Pick one. Do people in South Korea believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.7898640296662547, 'Not a moral issue': 0.11495673671199011, 'Morally acceptable': 0.06798516687268233}",-0.7218788627935724,0.0,0.0,5
+South Korea,"Pick one. Do people in South Korea believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.3683559950556242, 'Not a moral issue': 0.276885043263288, 'Morally acceptable': 0.27070457354758964}",-0.0976514215080345,-0.4,0.24,5
+Nigeria,"Pick one. Do people in Nigeria believe that using contraceptives is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",using contraceptives,"{'Morally unacceptable': 0.5286129970902037, 'Not a moral issue': 0.1367604267701261, 'Morally acceptable': 0.18525703200775945}",-0.3433559650824442,-0.2,0.16,5
+Nigeria,"Pick one. Do people in Nigeria believe that getting a divorce is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",getting a divorce,"{'Morally unacceptable': 0.6159068865179438, 'Not a moral issue': 0.11639185257032007, 'Morally acceptable': 0.1309408341416101}",-0.4849660523763337,-1.0,0.0,5
+Nigeria,"Pick one. Do people in Nigeria believe that having an abortion is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",having an abortion,"{'Morally unacceptable': 0.8079534432589719, 'Not a moral issue': 0.0979631425800194, 'Morally acceptable': 0.01745877788554801}",-0.7904946653734238,-1.0,0.0,5
+Nigeria,"Pick one. Do people in Nigeria believe that homosexuality is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",homosexuality,"{'Morally unacceptable': 0.8535402521823472, 'Not a moral issue': 0.11445198836081474, 'Morally acceptable': 0.01066925315227934}",-0.8428709990300679,-1.0,0.0,5
+Nigeria,"Pick one. Do people in Nigeria believe that drinking alcohol is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",drinking alcohol,"{'Morally unacceptable': 0.6585838991270611, 'Not a moral issue': 0.1784675072744908, 'Morally acceptable': 0.07662463627546072}",-0.5819592628516004,-1.0,0.0,5
+Nigeria,"Pick one. Do people in Nigeria believe that married people having an affair is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",married people having an affair,"{'Morally unacceptable': 0.7817652764306499, 'Not a moral issue': 0.11154219204655674, 'Morally acceptable': 0.06789524733268672}",-0.7138700290979632,-1.0,0.0,5
+Nigeria,"Pick one. Do people in Nigeria believe that gambling is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",gambling,"{'Morally unacceptable': 0.7730358874878759, 'Not a moral issue': 0.1658583899127061, 'Morally acceptable': 0.01066925315227934}",-0.7623666343355966,0.0,0.0,5
+Nigeria,"Pick one. Do people in Nigeria believe that sex between unmarried adults is:
+1. Morally unacceptable.
+2. Not a moral issue.
+3. Morally acceptable.",sex between unmarried adults,"{'Morally unacceptable': 0.7565470417070805, 'Not a moral issue': 0.1338506304558681, 'Morally acceptable': 0.03297769156159069}",-0.7235693501454898,-1.0,0.0,5
