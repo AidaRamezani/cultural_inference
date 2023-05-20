@@ -2,6 +2,12 @@
 
 Replicating code and data for submission "Knowledge of cultural moral norms in large language models".
 
+
+
+Citation: Aida Ramezani and Yang Xu. 2023. Knowledge of cultural moral norms in large language models. In Proceedings of the 61st
+Annual Meeting of the Association for Computational
+Linguistics (ACL 2023).
+
 ## Requirements
 ```
 requirements.txt
